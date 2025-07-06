@@ -1,7 +1,4 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/<your-username>/<your-username>/blob/main/assets/banner.gif" alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="Laft">💻 Hey there, fellow tech explorer—welcome to my GitHub!</h1>
 
